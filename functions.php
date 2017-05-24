@@ -126,13 +126,13 @@ function menu() {
                         <!--<li><a href="productos">Productos</a></li>-->
                         <!--<li><a href="#">Categorias</a></li>-->
                         <li class="dropdown">
-                            <!--<a href="productos" class="dropdown-toggle " data-toggle="dropdown" data-hover="dropdown" data-delay="0" data-close-others="true">Productos <b class="fa fa-caret-down"></b></a>-->
-                            <a href="productos" class="dropdown-toggle">Productos</a>
+                            <a href="productos" class="dropdown-toggle " data-toggle="dropdown" data-hover="dropdown" data-delay="0" data-close-others="true">Productos <b class="fa fa-caret-down"></b></a>
+                            <!-- <a href="productos" class="dropdown-toggle">Productosoo</a>-->
                             <ul class="dropdown-menu">
                                 <li><a href="electrodomesticos">Electrodomésticos</a></li>
                                 <li><a href="ollas-sartenes">Ollas y Sartenes</a></li>                                              
                                 <li><a href="vajillas">Vajillas</a></li>
-                                <li><a href="productos">Todos</a></li>
+                                <li><a href="catalogo">Catálogo</a></li>
                             </ul>
                         </li>
                         <li><a href="distribuidores">Distribuidores</a></li>

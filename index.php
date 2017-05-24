@@ -35,7 +35,7 @@
                 <div class="flex-caption derecha">
                     <h3>OLLAS Y SARTENES</h3> 
 					<p>Variedad en ollas, sartenes, planchas, Woks, entre otros.</p> 
-					<a href="ollas-sartenes" class="btn btn-theme">Ver más</a>
+					<a href="ollas-sartenes" class="btn btn-theme">Ver Productos</a>
                 </div>
               </li> 
               <li>

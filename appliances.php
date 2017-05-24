@@ -21,7 +21,7 @@
 					<section id="projects">
 					<ul id="thumbs" class="portfolio">
 						<?php
-						// producto($title,$imgSmall,$imgBig,$description)
+						// producto($title,$imgSmall,$imgBig,$description)						
 						producto(
 							'Batidora Negra Manual SALCAR <br>5 velocidades',
 							'img/productos/electrodomesticos/SAL-BATM002.jpg',
@@ -93,6 +93,12 @@
 							'img/productos/electrodomesticos/SAL-LICP004.jpg',
 							'',
 							'<small>SAL-LICP004</small><br>&raquo; Vaso plástico con capacidad de 1.5 litros.<br>&raquo; Potencia 450W.<br>'
+							);
+						producto(
+							'Mini Procesador <br>de Alimentos',
+							'img/productos/electrodomesticos/SAL-FP375.jpg',
+							'',
+							'<small>SAL-FP375</small><br>&raquo; Bowl de capacidad de 1.5 tazas.<br>&raquo; Disco de acero inoxidable para rebanar y rallar.<br>&raquo; Cuchilla para picar.<br>&raquo; Mezclador.<br>&raquo; Empujador de alimentos.'
 							);
 						/*
 						producto(
