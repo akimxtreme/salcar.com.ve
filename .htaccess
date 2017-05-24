@@ -1,0 +1,24 @@
+RewriteEngine on
+
+# Spanish
+	RewriteRule ^index$ index.php	
+	RewriteRule ^principal$ index.php
+	RewriteRule ^productos$ products.php
+	RewriteRule ^distribuidores$ distribuidores.php
+	RewriteRule ^contacto$ contact.php
+	RewriteRule ^acerca-de-nosotros$ about-us.php
+	RewriteRule ^electrodomesticos$ appliances.php
+	RewriteRule ^ollas-sartenes$ ollas-sartenes.php
+	RewriteRule ^vajillas$ vajillas.php
+	RewriteRule ^catalogo$ catalog.php
+
+# English
+	RewriteRule ^home$ en/index.php
+	RewriteRule ^products$ en/products.php
+	RewriteRule ^contact-en$ en/contact.php
+	RewriteRule ^about-us$ en/about-us.php
+	RewriteRule ^appliances$ en/appliances.php
+	RewriteRule ^cookware-and-fry-pan$ en/ollas-sartenes.php
+	RewriteRule ^dinner-set$ en/vajillas.php
+	RewriteRule ^catalog$ en/catalog.php	
+
